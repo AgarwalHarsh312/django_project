@@ -1,1 +1,1 @@
-# django_project
+# BOOK RECOMMENDATION SYSTEM
